@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_bg.xml",
+        "source": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\src\\main\\res\\drawable\\seekbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scan_flashlight.xml",
+        "source": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\src\\main\\res\\drawable\\scan_flashlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_style.xml",
+        "source": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scan_photo.xml",
+        "source": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\src\\main\\res\\drawable\\scan_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scan_history.xml",
+        "source": "C:\\Users\\liuchuanbao\\Desktop\\BarcodeAS-lite3111\\app\\src\\main\\res\\drawable\\scan_history.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\liuchuanbao\Desktop\BarcodeAS-lite3111\app\src\main\assets"><file name="ningxia.db" path="C:\Users\liuchuanbao\Desktop\BarcodeAS-lite3111\app\src\main\assets\ningxia.db"/></source><source path="C:\Users\liuchuanbao\Desktop\BarcodeAS-lite3111\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\liuchuanbao\Desktop\BarcodeAS-lite3111\app\src\release\assets"/></dataSet></merger>
